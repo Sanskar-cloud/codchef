@@ -1,2 +1,2 @@
 # codchef
-Solutions to some of problems from CodeChef
+Solutions to some of the problems from CodeChef for beginners.
