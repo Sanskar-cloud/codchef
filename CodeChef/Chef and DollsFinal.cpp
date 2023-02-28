@@ -24,5 +24,6 @@ int main()
 				k=a[i];
 		}
 		printf("%ld\n",k);
+		
 	}
 } 
